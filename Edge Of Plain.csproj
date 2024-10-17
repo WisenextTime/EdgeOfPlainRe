@@ -17,4 +17,29 @@
       <Folder Include="Core\Lib\" />
     </ItemGroup>
 
+    <ItemGroup>
+      <None Remove="Assets\Textures\Tiles\FluorescentGrass.png" />
+      <EmbeddedResource Include="Assets\Textures\Tiles\FluorescentGrass.png" />
+      <None Remove="Assets\Textures\Tiles\FluorescentGrass_light.png" />
+      <EmbeddedResource Include="Assets\Textures\Tiles\FluorescentGrass_light.png" />
+      <None Remove="Assets\Textures\Tiles\Grass.png" />
+      <EmbeddedResource Include="Assets\Textures\Tiles\Grass.png" />
+      <None Remove="Assets\Textures\Tiles\Ice.png" />
+      <EmbeddedResource Include="Assets\Textures\Tiles\Ice.png" />
+      <None Remove="Assets\Textures\Tiles\Lava.png" />
+      <EmbeddedResource Include="Assets\Textures\Tiles\Lava.png" />
+      <None Remove="Assets\Textures\Tiles\WaterBridge.png" />
+      <EmbeddedResource Include="Assets\Textures\Tiles\WaterBridge.png" />
+      <None Remove="Assets\Textures\Tiles\Water.png" />
+      <EmbeddedResource Include="Assets\Textures\Tiles\Water.png" />
+      <None Remove="Assets\Textures\Tiles\Void.png" />
+      <EmbeddedResource Include="Assets\Textures\Tiles\Void.png" />
+      <None Remove="Assets\Textures\Tiles\Lava_light.png" />
+      <EmbeddedResource Include="Assets\Textures\Tiles\Lava_light.png" />
+      <None Remove="Assets\Textures\Tiles\Mud.png" />
+      <EmbeddedResource Include="Assets\Textures\Tiles\Mud.png" />
+      <None Remove="Assets\Textures\Tiles\Stone.png" />
+      <EmbeddedResource Include="Assets\Textures\Tiles\Stone.png" />
+    </ItemGroup>
+
 </Project>
